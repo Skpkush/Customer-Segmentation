@@ -7,6 +7,7 @@
 
 > **Portfolio Project** | Data Analyst | 2025  
 > Advanced customer behavioral segmentation using RFM analysis, K-Means, Hierarchical Clustering, DBSCAN, and PCA visualization.
+> https://customer-segmentation-g4vjra3jvttxstxguxhnff.streamlit.app/
 
 ---
 
@@ -200,3 +201,4 @@ Then open http://localhost:8501 in your browser.
 
 ---
 *Built as part of a data analyst portfolio to demonstrate advanced Python + ML + business intelligence skills.*
+
