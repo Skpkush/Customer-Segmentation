@@ -33,7 +33,6 @@ This project identifies **distinct customer behavioral segments** and prescribes
 4. **Cohort analysis reveals 70%+ drop-off by Month 3** — critical window for onboarding and re-engagement campaigns
 5. **Champions have 8x higher CLV than Lost Customers** — resource allocation should reflect this gap
 
----
 
 ## 🗂️ Project Structure
 
@@ -201,4 +200,5 @@ Then open http://localhost:8501 in your browser.
 
 ---
 *Built as part of a data analyst portfolio to demonstrate advanced Python + ML + business intelligence skills.*
+
 
