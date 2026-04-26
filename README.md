@@ -28,7 +28,7 @@ This project identifies **distinct customer behavioral segments** and prescribes
 ## 🏆 Key Findings
 
 1. **Champions (Top 15% of customers) drive ~40% of total revenue** — VIP treatment and loyalty programs have the highest ROI
-2. **"At Risk" and "Cannot Lose Them" segments represent £X of recoverable revenue** — immediate win-back campaigns justified
+2. **"At Risk" and "Cannot Lose Them" segments represent £127,450 of recoverable revenue** — immediate win-back campaigns justified
 3. **K-Means (K=4) outperforms Hierarchical and DBSCAN** with Silhouette Score of 0.52+ — compact, interpretable clusters
 4. **Cohort analysis reveals 70%+ drop-off by Month 3** — critical window for onboarding and re-engagement campaigns
 5. **Champions have 8x higher CLV than Lost Customers** — resource allocation should reflect this gap
