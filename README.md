@@ -195,8 +195,8 @@ Then open http://localhost:8501 in your browser.
 
 ## 📞 Contact
 
-**sumit prajapat** | Data Analyst  
-📧 sumitkprajapat@email.com | 💼 [LinkedIn](https://www.linkedin.com/in/sumit-k-prajapat/) | 🐙 [GitHub](https://github.com/Skpkush)
+**Sumit Prajapat** | Data Analyst  
+📧 sumitkprajapat@gmail.com | 💼 [LinkedIn](https://www.linkedin.com/in/sumit-k-prajapat/) | 🐙 [GitHub](https://github.com/Skpkush)
 
 ---
 *Built as part of a data analyst portfolio to demonstrate advanced Python + ML + business intelligence skills.*
